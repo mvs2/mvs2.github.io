@@ -23,6 +23,7 @@ print_hi('Tom')
 ```
 
 Python code snippet:
+
 ```python
 def hello_friend():
   print('hello friend)
