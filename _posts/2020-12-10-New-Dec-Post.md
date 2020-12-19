@@ -1,5 +1,5 @@
 ---
-title: "New December Pst"
+title: "#100DaysOfCode Day 1"
 date: 2020-19-2020
 categories:
   - 100 Days of code
