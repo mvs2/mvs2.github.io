@@ -9,9 +9,9 @@ tags:
   - python crash course
 ---
 
-As I practice with this blog, I also intend to (re)start doing an hour of code.  This is at minimum my 3rd attempt to do this.  Starting this during the holiday season is a bit risky, but I'm determined to do it.  I'll both blog to summarize, and per the rules I'll start using my dormant twitter account (I mainly use twitter to read and learn from others).
+As I practice with this blog, I also intend to (re)start doing an hour of code.  This is at minimum my 3rd attempt to do this.  Starting this during the holiday season is a bit risky, but I'm determined to do it.  I'll both blog to summarize, and per the rules I'll start using my dormant twitter account (I mainly use twitter to read and learn from others).  I'm going over some of the basics again, as pymomi work lately has me trying to recall certain things without seeking out Stack Overlow help.  
 
-I've been re-reading "Python Crash Course" by Eric Matthes.  I find it to be my personal favorite out of all the introductory Python texts out there.  
+I've been re-reading ["Python Crash Course"][python-crash-course] by Eric Matthes.  I find it to be my personal favorite out of all the introductory Python texts out there.  
 
 Today I focused on working with list slicing and remembering how list comprehensions work.
 
@@ -54,3 +54,4 @@ Key is: cpu
 Key is: memory
 Key is: disk_count
 ```
+[python-crash-course]: https://nostarch.com/pythoncrashcourse2e
