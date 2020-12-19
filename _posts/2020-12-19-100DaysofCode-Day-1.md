@@ -1,6 +1,6 @@
 ---
 title: "#100DaysOfCode Day 1"
-date: 2020-19-20
+date: 2020-12-19
 categories:
   - 100 Days of code
 tags:
