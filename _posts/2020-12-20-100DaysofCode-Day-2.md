@@ -37,23 +37,23 @@ food_orders = {
 for person,order in food_orders.items():
 	print(f'{person.title()} wants to eat:')
 	for sw_type in order['sandwich']:
-		print(f'\t{sw_type}')
-	print(f'\tAnd {order["drink"].title()} to drink')
+		print(f'\tA {sw_type} sandwhich')
+	print(f'\tAnd some {order["drink"].title()} to drink')
 
-  Jerry wants to eat:
-	salami
-	grilled cheese
-	And Sprite to drink
+Jerry wants to eat:
+	A salami sandwhich
+	A grilled cheese sandwhich
+	And some Sprite to drink
 Marcus wants to eat:
-	veggie
-	And Diet Coke to drink
+	A veggie sandwhich
+	And some Diet Coke to drink
 Susan wants to eat:
-	veggie
-	hummus
-	And Water to drink
+	A veggie sandwhich
+	A hummus sandwhich
+	And some Water to drink
 Larry wants to eat:
-	grilled ham
-	And Fanta to drink
+	A grilled ham sandwhich
+	And some Fanta to drink
 
 ```
 
