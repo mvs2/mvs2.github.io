@@ -9,7 +9,7 @@ tags:
   - python crash course
 ---
 
-Today dealt more with dictionaries, setsf for lists, and nesting dictionaries and lists within dictionaries.
+Today dealt more with dictionaries, sets for lists, and nesting dictionaries and lists within dictionaries.
 
 I found "sets" interesting and something I must have forgotten. According to ["Python Crash Course"][python-crash-course]* "A set is a collection in which each item must be unique.... When you wrap set() around a list that contains duplicate items, Python identifies the unique items in the list and builds a set from those items."
 
