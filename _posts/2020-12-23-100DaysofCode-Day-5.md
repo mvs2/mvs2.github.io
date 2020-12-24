@@ -1,5 +1,5 @@
 ---
-title: "#100DaysOfCode Day 4"
+title: "#100DaysOfCode Day 5"
 date: 2020-12-23
 categories:
   - 100 Days of code
@@ -58,7 +58,7 @@ my_apple.eat()
 python fruit_2.py
 This apple is ready to eat!
 Oh boy, time to eat the apple
-Hope you\'re enjoing this apple
+Hope you're enjoing this apple
 ```
 And now for a child class that inherits from the parent class.
 
