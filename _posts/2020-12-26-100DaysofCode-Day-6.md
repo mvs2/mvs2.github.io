@@ -82,4 +82,5 @@ Ran 1 test in 0.000s
 ```
 
 No Django today. 
+
 [100DaysOfCode]:https://www.100daysofcode.com/faq/
