@@ -10,7 +10,7 @@ tags:
   - Django
 ---
 
-First off, yes, I skipped Dec. 25.  According to the ["rules,"][100DaysOfCode] one skipped day is OK.  Two is forbidden, apparently.  I expect I might miss New Year's Day as well.
+First off, yes, I skipped Dec. 25.  According to the "rules,"[100DaysOfCode] one skipped day is OK.  Two is forbidden, apparently.  I expect I might miss New Year's Day as well.
 
 Started getting into testing today. 
 
