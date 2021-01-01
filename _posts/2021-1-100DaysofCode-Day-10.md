@@ -1,6 +1,6 @@
 ---
-title: "#100DaysOfCode Day 9"
-date: 2020-12-29
+title: "#100DaysOfCode Day 10"
+date: 2021-01-01
 categories:
   - 100 Days of code
 tags:
