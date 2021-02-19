@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Virtual Marcus
-email: me@virtualmarcus.com
+email: marcus@virtualmarcus.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mainly using this blog to track my progress in learining new tech.  Love to learn new tech.  Python, VMware, Ansible.
+  Mainly using this blog to track my progress in learning new tech.  Love to learn new tech.  Python, VMware, Ansible.
 twitter_username: marcus_541
 github_username: mvs2
 minimal_mistakes_skin: "dark"
@@ -78,6 +78,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mvs2"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/marcus-sharp-8687b9/"
 
 defaults:
   # _posts
