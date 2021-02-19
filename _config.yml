@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/gh_av.png"
   bio    : "VMware, Python, other fun things."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:marcus@virtualmarcus.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marcus_541"
