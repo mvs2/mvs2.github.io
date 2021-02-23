@@ -1,15 +1,16 @@
 ---
-title: "My ParkWhiz app"
-date: 2021-02-18
+title: "Using pyVmomi to enable vSAN on a VMware Cluster"
+date: 2021-02-23
 categories:
   - Python
-  - Hour of Code
   - pyVmomi
 
 tags:
   - python
   - Hour Of Code
   - pyVmomi
+  - VMware
+  - vSAN
 ---
 
 This one is a bit simpler, hopefully.  We are using [pyVmomi][pyvmomi] to enable a cluster for vSAN.  As mentioned in 
