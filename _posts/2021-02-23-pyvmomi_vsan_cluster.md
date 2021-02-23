@@ -106,11 +106,6 @@ if __name__ == '__main__':
 
 
 
-
-
-I run the script via a Windows Scheduled task.  I learned via google searches (mainly answers on StackOverFlow ) that when doing this with Windows, you need to save your python file as a ".pw" file. In the task "Action" tab, under "Program/Script":
-
-
 [pyVmomi]:https://github.com/vmware/pyvmomi
 [vSAN]:https://code.vmware.com/web/sdk/7.0%20U1/vsan-python
 
