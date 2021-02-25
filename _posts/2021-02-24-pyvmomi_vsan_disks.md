@@ -13,9 +13,11 @@ tags:
   - vSAN
 ---
 
-This time we are using [pyVmomi][pyvmomi] configure [vSAN disk groups][vSAN disk groups] on an ESXi host.  As mentioned in 
-the code, you'll need to download the [vSAN Management SDK for Python][vSAN], as VMware has not put this library on Pypi.
-As before, you will most likely also want to use something like [argparse][argparse] instead of hard coding like I do in the examples here.   
+This time we are using [pyVmomi][pyvmomi] configure [vSAN disk groups][vSAN disk groups] on an ESXi host. With vSAN disk groups, we have disks that are used as cache drives and disks that are used as capacity drives.  As noted in the link from VMware "Disk groups contain at most 1 cache device and between 1 to 7 capacity devices."  In our use case, the cache drives are smaller than the capacity drives.  Thus, our script sorts into a "smallerSize" list and appends the cache drives there.  This is after starting with a baseline size above 300MB (we want to ignore anything that small that happens to be attached, like say a SATADOM) Like our script share from previously with vSAN, download the [vSAN Management SDK for Python][vSAN], as VMware has not put this library on Pypi.
+
+As before, you will most likely also want to use something like [argparse][argparse] instead of hard coding like I do in the examples here.  
+
+Later I plan on sharing a simple argparse vc connection script and also demonstrating how to use your debugger (in VS Code or in Pycharm) to manipulate and understand pyVmomi objects and methods.   
 
 
 
