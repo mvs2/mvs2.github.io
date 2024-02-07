@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Marcus"
-  avatar : "/assets/images/bio-photo2.jpg"
+  avatar : "/assets/images/me_winter_640.jpg"
   bio    : "VMware, Python, other fun things."
   links:
     - label: "Email"
