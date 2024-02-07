@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Marcus"
   avatar : "/assets/images/me_winter_640.jpg"
-  bio    : "VMware, Python, other fun things."
+  bio    : "Python, Ansible, VMware, and other fun things."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
