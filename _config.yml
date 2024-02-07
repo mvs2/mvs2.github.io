@@ -17,7 +17,7 @@ title: Virtual Marcus
 email: marcus@virtualmarcus.com
 description: >- # this means to ignore newlines until "baseurl:"
    Python, VMware, Ansible.
-twitter_username: marcus_541
+#twitter_username: marcus_541
 github_username: mvs2
 minimal_mistakes_skin: "dark"
 search: true
@@ -72,9 +72,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marcus_541"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/marcus_541"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mvs2"
