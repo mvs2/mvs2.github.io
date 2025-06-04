@@ -42,8 +42,9 @@ Modified for Kaniko:
 ```dockerFile
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-```
 RUN pip install --no-cache-dir -r requirements.txt
+
+```
 
 While this introduced slightly more image bloat, it provided reproducibility and compatibility within our security constraints. Other changes included installing Galaxy collections directly in the Dockerfile and eliminating manual downloads of .tar.gz collections.
 Prompt Engineering as a Tool
