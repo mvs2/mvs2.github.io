@@ -38,7 +38,7 @@ RUN --mount=type=cache,target=/root/.cache \
 ```
 
 Modified for Kaniko:
-```dockerFile
+```dockerfile
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 ```
