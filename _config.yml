@@ -69,6 +69,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marcus-sharp-8687b9"
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "/Marcus_Sharp_Resume.pdf"
 
 footer:
   links:
