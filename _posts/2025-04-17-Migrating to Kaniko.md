@@ -36,13 +36,13 @@ One common sticking point was unsupported Dockerfile syntax. Kaniko doesn't supp
 RUN --mount=type=cache,target=/root/.cache \
     pip install -r requirements.txt
 
-```dockerFile
+```
 
 Modified for Kaniko:
 ```dockerFile
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-```dockerFile
+```
 RUN pip install --no-cache-dir -r requirements.txt
 
 While this introduced slightly more image bloat, it provided reproducibility and compatibility within our security constraints. Other changes included installing Galaxy collections directly in the Dockerfile and eliminating manual downloads of .tar.gz collections.
